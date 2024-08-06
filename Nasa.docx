@@ -1,0 +1,8 @@
+1 - Ano da missão e quantidade de funcionários.
+Resposta: Short para o ano e byte para o número de funcionários.
+
+2 - Distância do satélite da Terra e velocidade máxima.
+Resposta: int para a distância e short para a velocidade.
+
+3 - Status da missão, distância percorrida e calibragem das antenas.
+Resposta: Boolean para o status da missão, long para a distância, e double para a calibragem.
